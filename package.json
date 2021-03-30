@@ -2,7 +2,7 @@
   "name": "mentita-proyect-001",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AnthonyCallaRoman.github.io/react-pages-example/",
+  "homepage": "http://AnthonyCallaRoman.github.io/react-page-example/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
